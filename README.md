@@ -1,5 +1,5 @@
 # UE4HeightMapGenerator
-
+![UE4HeightMapGenerator](https://github.com/h2ogit/UE4HeightMapGenerator/blob/master/1.png)
 
 Example how to generate mesh from heightmap texture using UProceduralMeshComponent.
 
