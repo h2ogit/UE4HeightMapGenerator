@@ -1,5 +1,4 @@
 # UE4HeightMapGenerator
-![UE4HeightMapGenerator](https://github.com/h2ogit/UE4HeightMapGenerator/blob/master/1.png)
 
 Example how to generate mesh from heightmap texture using UProceduralMeshComponent.
 
@@ -23,3 +22,7 @@ Class ATestHeightMapLand can be spawned and used in any project, just add .cpp a
 Bugs:
 1. Rectangle and Square optimizations are not finished still. So do not use them.
 2. Optimized mesh has wrong normals
+
+![UE4HeightMapGenerator](https://github.com/h2ogit/UE4HeightMapGenerator/blob/master/1.png)
+![UE4HeightMapGenerator](https://github.com/h2ogit/UE4HeightMapGenerator/blob/master/2.png)
+![UE4HeightMapGenerator](https://github.com/h2ogit/UE4HeightMapGenerator/blob/master/3.png)
